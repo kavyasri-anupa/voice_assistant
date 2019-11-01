@@ -1,4 +1,4 @@
-birthdays={'September 06':'John','March 08':'smith','May 06':'Tim','October 17':'Bella','November 11':'Tina','December 09':'Shiyaa',
+birthdays={'September 06':'John','March 08':'smith','May 06':'Tim','October 17':'Bella','October 23':'David','November 07':'Tina','December 09':'Shiyaa',
            }
 anniversaries={'Febraury 11':'Tim and Tina'}
 import pyttsx3

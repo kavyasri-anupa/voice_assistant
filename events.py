@@ -1,6 +1,6 @@
-birthdays={'September 06':'kavya','March 08':'chinnu','May 06':'dad','October 17':'Pranavi','November 11':'Laasya','December 09':'Indu',
-           'May 20':'Buffy','May 15':'Penta','October 23':'Devi','February 03':'chinna','February 10':'akky'}
-anniversaries={'Febraury 11':'parents'}
+birthdays={'September 06':'John','March 08':'smith','May 06':'Tim','October 17':'Bella','November 11':'Tina','December 09':'Shiyaa',
+           }
+anniversaries={'Febraury 11':'Tim and Tina'}
 import pyttsx3
 speech=pyttsx3.init()
 speech.setProperty('rates',0.2)
